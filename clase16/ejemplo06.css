@@ -1,0 +1,15 @@
+.cuadrado{
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
+    /* background-color: blueviolet; */
+}
+
+.cuadrado.rojo{
+    background-color: rgb(192, 166, 133);
+}
+
+.cuadrado.borde{
+    border: 2px solid black;
+}
+
